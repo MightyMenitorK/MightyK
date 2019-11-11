@@ -1,0 +1,2 @@
+# MightyK
+a c++ app
